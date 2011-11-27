@@ -1,0 +1,1 @@
+NetSpeed automatically detects your active network interface, determines your network speed and plots it in realtime, other than standard c\c++ libs and gtk 2.0, there are no dependencies, NetSpeed uses a custom graphing widget. 
